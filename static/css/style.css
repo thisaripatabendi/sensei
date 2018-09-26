@@ -1,0 +1,61 @@
+
+.heading{
+    text-align: center
+}
+
+.function1{
+    margin-left: 50px
+}
+
+.function2{
+    margin-left: 50px
+}
+
+.function3{
+    margin-left: 50px
+}
+
+.name {
+    margin-left: 50px
+}
+
+.faculty{
+    margin-left: 50px
+}
+
+.university{
+    margin-left: 50px
+}
+
+.keyword{
+    margin-left: 50px
+}
+
+.name1 {
+    margin-left: 50px;
+    width: 350px
+}
+
+.name2 {
+    margin-left: 205px;
+    width: 350px
+}
+
+.search-position{
+    margin-top: 30px;
+    margin-left: 470px;
+    width: 150px;
+    height: 35px
+}
+
+.signup-position{
+    margin-left: 50px;
+    width: 150px;
+    height: 35px
+}
+
+.signin-position{
+    margin-left: 50px;
+    width: 150px;
+    height: 35px
+}

@@ -1,0 +1,7 @@
+word,synonym
+help,"['aid', 'assist', 'assistance', 'help', 'assistant', 'helper', 'help', 'supporter', 'aid', 'assistance', 'help', 'avail', 'help', 'service', 'help', 'assist', 'aid', 'help', 'aid', 'help', 'facilitate', 'help_oneself', 'help', 'serve', 'help', 'help', 'avail', 'help', 'help']"
+time,"['time', 'clip', 'time', 'time', 'time', 'time', 'time', 'clock_time', 'time', 'fourth_dimension', 'time', 'meter', 'metre', 'time', 'prison_term', 'sentence', 'time', 'clock', 'time', 'time', 'time', 'time', 'time']"
+feedback,"['feedback', 'feedback', 'supervisor', 'supervise']"
+understand,"['understand', 'understand', 'realize', 'realise', 'see', 'understand', 'read', 'interpret', 'translate', 'understand', 'infer', 'sympathize', 'sympathise', 'empathize', 'empathise', 'understand']"
+grader,"['grader', 'mark', 'grade']"
+assignment,"['assignment', 'duty_assignment', 'assignment', 'assignment', 'assigning', 'grant', 'assignment', 'assignment', 'appointment', 'assignment', 'designation', 'naming', 'coursework', 'question', 'test']"
